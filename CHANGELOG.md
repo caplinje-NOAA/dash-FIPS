@@ -3,6 +3,9 @@ All notable changes to `dash` will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [UNRELEASED]
+## Fixed
+
+-[#2697](https://github.com/plotly/dash/issues/2697) Fixed compatability with FIPS environments by replacing md5 hashing with sha256. 
 
 ## Added
 
